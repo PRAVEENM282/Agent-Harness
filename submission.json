@@ -1,0 +1,6 @@
+{
+  "testData": {
+    "mockLlmEnabled": true,
+    "apiPort": 8000
+  }
+}
