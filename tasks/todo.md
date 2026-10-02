@@ -1,0 +1,5 @@
+- [x] Implement persistent schema and strict tool contracts.
+- [x] Implement reversible transaction gateway and progressive trust service.
+- [x] Implement APIs, scripts, and trace output.
+- [x] Implement tests and Docker configuration.
+- [x] Run full verification and simulation.
